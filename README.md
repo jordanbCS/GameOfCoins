@@ -12,6 +12,11 @@ At the start of the game you run your own personal passwords through several dif
 
 ## Level 2: A game of election  
 
-How actually are decisions made about bitcoin code? I have no idea but it must assuredly be unsustainable chaos. The goal of this level is to maximize the completion of shared goals of the "true" denizens of a currency community. 
+How actually are decisions made about Bitcoin code? I have no idea but it must assuredly be unsustainable chaos. The goal of this level is to maximize the completion of shared goals of the "true" denizens of a currency community. 
 
 Start by exchanging trust tokens with your friends. These tokens could be signatures, acting as upvotes, connected with your friends' wallet addresses, or they could be the rights to some blockchain asset. Increase the value of your trust tokens by reliably, and singularly, indicating your ranked preferences for decisions relating to the distribution of equity within the currency community.
+
+
+## Level 3: A game of association  
+
+The goal of this level is to develop models of a currency's network effect. To truly predict the fluctuations of a coin's value, one must account for its network centrality among the other coins. Bancor, for instance, would seem ideally situated to becoming a significant reserve. Ultimately, there is nothing stopping a competitor to Bancor from launching, which is why network centrality is something we'd like to subtract from our predictive models.  
