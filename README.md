@@ -20,3 +20,16 @@ Start by exchanging trust tokens with your friends. These tokens could be signat
 ## Level 3: A game of association  
 
 The goal of this level is to develop models of a currency's network effect. To truly predict the fluctuations of a coin's value, one must account for its network centrality among the other coins. Bancor, for instance, would seem ideally situated to becoming a significant reserve. Ultimately, there is nothing stopping a competitor to Bancor from launching, which is why network centrality is something we'd like to subtract from our predictive models.  
+
+## Level 4: A game of orientation  
+
+## Level 5: A game of neurons
+
+## Level 6: A game of negotiation  
+
+## Level 7: A game of intention 
+
+## Level 8: A game of space and time 
+
+## Level 9: A game of analogy  
+
