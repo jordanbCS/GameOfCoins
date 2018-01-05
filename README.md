@@ -30,6 +30,8 @@ The goal of this level is to develop models of a currency's network effect. To t
 ## Level 7: A game of intention 
 
 ## Level 8: A game of space and time 
+ - link in with prioritymap.org
 
 ## Level 9: A game of analogy  
 
+## Level 10: A game of decision    
