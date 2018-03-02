@@ -35,3 +35,35 @@ The goal of this level is to develop models of a currency's network effect. To t
 ## Level 9: A game of analogy  
 
 ## Level 10: A game of decision    
+### Decision 1. Listening > watching
+
+Choice 1, gut decision: novel/familiar.
+
+Choice 2: intentional decision: when to sleep.
+
+## Level 11: A game of intention
+
+Habits that facilitate intention
+
+## Level 12: A game of control
+
+Taking control of individual senses.
+
+## Level 13: A game of accountability
+
+### Action: Put other people on the papers you write  
+
+### Action: Maintain yourself like someone is coming over for dinner  
+
+## Level 14: A game of routine
+
+Routine requires that you specify self-imposed time constraints on it.
+
+## Level 15: A game of anticipation
+
+## Level 16: A game of wisdom
+
+### You enjoy things a lot more when you don't have to decide how to enjoy it.
+
+### Choose between problems and non-problems.
+
